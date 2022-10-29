@@ -1,0 +1,25 @@
+body { background-color: bisque;}
+h1   {text-shadow: -4px 4px 6px dimgrey;
+      text-align: center;
+      font-size: 4em;
+    }
+p  { font-family:arial,helvetica,sans-serif ;} 
+     .firsttext {text-align: center; 
+                 font-weight: bold;}
+     .button{ text-align: right;
+              }
+fieldset{ border-width: 2px;
+          margin-top: 0px;}    
+     #fmargin{ margin-left: 5%;
+               margin-right: 5%;}     
+legend {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 1.5em ;}
+strong {}
+    .days {font-size: 17px;}
+    .name {font-size: 23px;}
+label {font-family:'Courier New', Courier, monospace;
+       font-size: 1em;}
+input {}
+    .textb{ font-size: 1.3em ;
+            font-family: fantasy;
+            margin-right: 90px;}
